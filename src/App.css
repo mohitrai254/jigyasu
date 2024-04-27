@@ -1,0 +1,46 @@
+.app {
+  background: #f5ede0;
+}
+
+input {
+  width: 392.77px;
+  height: 36.88px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 180px;
+  margin-left: 1035px;
+  width: 393px;
+}
+
+.login-btn {
+  width: 393px;
+  height: 52.02px;
+  gap: 0px;
+  border-radius: 5.31px 0px 0px 0px;
+  opacity: 0px;
+  background: #e36863;
+}
+
+.forgot-pwd {
+  width: 125px;
+  height: 16px;
+  top: 550px;
+  left: 1103px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16.41px;
+  letter-spacing: 0.055em;
+  text-align: left;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+}
